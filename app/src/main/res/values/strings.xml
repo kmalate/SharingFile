@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharingFiles</string>
+    <string name="file_selector">File Selector</string>
+    <string name="Done">Done</string>
+</resources>
